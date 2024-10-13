@@ -1,0 +1,51 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap'); */
+
+.main-heading
+{
+    height: 100vh;
+    width: 100vw;
+    background-size:cover ;
+    /* background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/ocean.jpg"); */
+    background-image: url("https://img.freepik.com/free-vector/colorful-underwater-life-template_1284-37130.jpg?t=st=1728550912~exp=1728554512~hmac=11135b4e86024f3c392883eec90f959cd132f28d88018558a3bbfcc981d038c1&w=1060");
+    /* color: blue;
+    text-align: center; */
+}
+
+
+.card
+{
+    text-align: center;
+    /* background-color: white; */
+    border-top-left-radius: 20px ;
+    border-top-right-radius: 20px;
+    background-color: blueviolet;
+    padding: 5px;
+}
+
+.button
+{
+    height: 36px;
+    width: 138px;
+    background-color: #25b1cc;
+    color: white;
+    border-radius: 20px;
+    border-width: 0px;
+}
+
+
+
+
+
+/* sourece code */
+/* @import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.button {
+  border-width: 2px;
+  border-color: orange;
+  border-style: dashed;
+  border-radius: 10px;
+  background-color: #25b1cc;
+}
+.card {
+  padding: 10px;
+} */
